@@ -65,6 +65,8 @@ Additionally, you can reference extension packages that provide mocks for other 
 
 - [`Microsoft.Learn.AzureFunctionsTesting.Extension.MockSql`](Microsoft.Learn.AzureFunctionsTesting.Extension.MockSql/README.md)
 
+- [`Microsoft.Learn.AzureFunctionsTesting.Extension.StorageEmulator`](Microsoft.Learn.AzureFunctionsTesting.Extension.StorageEmulator/README.md)
+
 See below for a complete example:
 
     using Microsoft.Azure.Cosmos;
