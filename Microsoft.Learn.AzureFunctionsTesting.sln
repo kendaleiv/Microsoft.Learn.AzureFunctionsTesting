@@ -19,6 +19,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests.MyFunctionApp", "Samp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microsoft.Learn.AzureFunctionsTesting.Extension.MockSql", "Microsoft.Learn.AzureFunctionsTesting.Extension.MockSql\Microsoft.Learn.AzureFunctionsTesting.Extension.MockSql.csproj", "{020AB461-DE29-4733-B556-ED1A7B143170}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microsoft.Learn.AzureFunctionsTesting.Extension.StorageEmulator", "Microsoft.Learn.AzureFunctionsTesting.Extension.StorageEmulator\Microsoft.Learn.AzureFunctionsTesting.Extension.StorageEmulator.csproj", "{B3F2E1A0-5C4D-4E8F-9A7B-6D2C1E3F0B5A}"
+EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microsoft.Learn.AzureFunctionsTesting.Extension.DebugProcess", "Microsoft.Learn.AzureFunctionsTesting.Extension.DebugProcess\Microsoft.Learn.AzureFunctionsTesting.Extension.DebugProcess.csproj", "{A9503B78-7817-4ED2-ABF4-C20AD6BFBBA9}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microsoft.Learn.AzureFunctionsTesting.Extension.DebugProcess.Core", "Microsoft.Learn.AzureFunctionsTesting.Extension.DebugProcess.Core\Microsoft.Learn.AzureFunctionsTesting.Extension.DebugProcess.Core.csproj", "{8E1587EC-7E83-49DB-B2A6-9ED9E54363E7}"
@@ -62,6 +64,10 @@ Global
 		{020AB461-DE29-4733-B556-ED1A7B143170}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{020AB461-DE29-4733-B556-ED1A7B143170}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{020AB461-DE29-4733-B556-ED1A7B143170}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3F2E1A0-5C4D-4E8F-9A7B-6D2C1E3F0B5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3F2E1A0-5C4D-4E8F-9A7B-6D2C1E3F0B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3F2E1A0-5C4D-4E8F-9A7B-6D2C1E3F0B5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3F2E1A0-5C4D-4E8F-9A7B-6D2C1E3F0B5A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A9503B78-7817-4ED2-ABF4-C20AD6BFBBA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A9503B78-7817-4ED2-ABF4-C20AD6BFBBA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9503B78-7817-4ED2-ABF4-C20AD6BFBBA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
